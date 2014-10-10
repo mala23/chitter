@@ -42,8 +42,9 @@ Or/and:
 ####Technologies used
 - Ruby
 - Sinatra
-- Cucumber
+- Cucumber (at some point decided to use just RSpec and Capybara)
 - RSpec
+- Capybara
 - Postgres
 - Datamapper
 - Haml
