@@ -3,7 +3,7 @@ chitter
 
 Makers Challenge #06 - Chitter, a twitter clone
 
-’’’
+```
 
 Level 1
 
@@ -37,7 +37,7 @@ Bonus
 Or/and:
 - Work on the css to make it look good (we all like beautiful things)
 
-’’’
+```
 
 ####Technologies used
 - Ruby
