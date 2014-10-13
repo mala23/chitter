@@ -6,6 +6,7 @@ group :development, :test do
 	gem 'capybara'
 	gem 'cucumber'
 	gem 'cucumber-sinatra'
+	gem 'sinatra-partial'
 	gem 'launchy'
 	gem 'rspec'
 	gem 'data_mapper'
